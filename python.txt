@@ -1,0 +1,9 @@
+#get the path of current folder in Mac
+import os
+os.getcwd()
+
+#Change the path of folder in Mac
+import os
+path="/Users/howardsiu/python testing"
+os.chdir(path)
+
